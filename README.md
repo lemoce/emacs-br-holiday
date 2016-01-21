@@ -1,4 +1,4 @@
-# emacs-br-holiday
+# emacs-br-holidays
 
 Holidays for Emacs users in Brazil
 
